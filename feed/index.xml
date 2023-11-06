@@ -8,36 +8,16 @@
 	>
 
 <channel>
-	<title>Matthew Stadler Website</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<title>Wentzel Lombaard Resume</title>
+	<atom:link href="https://cybercore-labs.github.io/WentzelLombaard/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cybercore-labs.github.io/WentzelLombaard</link>
 	<description></description>
-	<lastBuildDate>Mon, 06 Nov 2023 10:25:03 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 16 Oct 2023 09:52:18 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.3.2</generator>
-	<item>
-		<title>Hello world!</title>
-		<link>/2023/11/06/hello-world/</link>
-					<comments>/2023/11/06/hello-world/#comments</comments>
-		
-		<dc:creator><![CDATA[kevinerasmus1999@gmail.com]]></dc:creator>
-		<pubDate>Mon, 06 Nov 2023 10:25:03 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
-
-					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
-										<content:encoded><![CDATA[
-<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>/2023/11/06/hello-world/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
-		
-		
-			</item>
-	</channel>
+</channel>
 </rss>
